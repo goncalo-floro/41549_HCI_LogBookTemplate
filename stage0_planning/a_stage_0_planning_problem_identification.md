@@ -19,8 +19,8 @@ Our project is set in the context of personal development and well-being. Many i
 Some of the main challenges in habit change include:
 - Lack of motivation: Many people start with enthusiasm but quickly lose interest;
 - Difficulty in maintaining consistency: Forming a new habit requires repetition over time, which can be challenging without proper reinforcement;
-- Influence of environment and society: External factors, such as unsupportive friends or family, can slow down progress or even reverse it.
-- Lack of personalization: Each person has a unique journey, and generic solutions may not be effective for everyone.
+- Influence of environment and society: External factors, such as unsupportive friends or family, can slow down progress or even reverse it;
+- Lack of personalization: Each person has a unique journey, and generic solutions may not be effective for everyone;
 - Absence of an efficient reward system: The human brain responds well to rewards, and the lack of them can make adopting new behaviors difficult.
 
 # The goal
