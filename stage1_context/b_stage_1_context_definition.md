@@ -12,11 +12,16 @@
 ## B.1a. Competitors
 
 
-| **Competitor**    | **Description**                             | Information repository              |
-| ----------------- | ------------------------------------------- | ----------------------------------- |
-| [Amazon Shoes]    | [Online platform selling shoe laces]        | [[Competitor Analysis AmazonShoes]] |
-| [Fnac Atacadores] | [Smartphone app to buy and sell shoe laces] |                                     |
-| ...               |                                             |                                     |
+| **Competitor**    | **Description**                             	| Information repository              |
+| ----------------- | ------------------------------------------- 	| ----------------------------------- |
+| I Am Sober	    | I Am Sober is a sobriety-tracking app that 	| [[Competitor Analysis AmazonShoes]] |
+|					| can help you recover from addiction to 		|									  |
+|					| alcohol and other substances, as well as 		|									  |
+|					| break bad habits and other harmful behaviours.|        							  |
+| Quitzilla 		| Quitzilla is an app designed to help you quit |									  |
+|					| your unwanted habits and addictions. 			|                                     |
+| nomo		        | Nomo is a simple clock that can track the		|									  | 
+|					| number of days you've been sober/clean/etc    |                                     |
 
 
 
