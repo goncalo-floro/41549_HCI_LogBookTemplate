@@ -9,38 +9,52 @@
 
 # Personas
 
-## Persona: [Persona Name] 
+## Persona: Alberto Fernandes 
 ### Summary 
-| Attribute        | Details                                       |
-| ---------------- | --------------------------------------------- |
-| **Photo**        | ![Persona Name\|100](personas/persona1.jpeg)  |
-| **Name**         | [Persona Name]                                |
-| **Age**          | [Persona Age]                                 |
-| **Occupation**   | [Job Title or Role]                           |
-| **Location**     | [City, Country]                               |
-| **Goals**        | [Brief summary of their main goals]           |
-| **Pain Points**  | [Key frustrations or challenges]              |
-| **Motivation**   | [One-line motivation or quote]                |
-| **Full Profile** | [📄 Read More](personas/persona1_template.md) |
+| Attribute        | Details                                        |
+| ---------------- | ---------------------------------------------  |
+| **Photo**        | ![Alberto Fernandes](persona_alberto.jpeg)     |
+| **Name**         | Alberto Fernandes                              |
+| **Age**          | 28                                             |
+| **Occupation**   | Friend of an Addict                            |
+| **Location**     | Trás-os-Montes, Portugal                       |
+| **Goals**        | Help his friend recover from his addictions    |
+| **Pain Points**  | Finding enough time to help his friend         |
+| **Motivation**   | Seeing his friend get better at each step      |
+| **Full Profile** | [📄 Read More](personas/persona_alberto.md)   |
 
 ---
-## Persona: [Persona Name] 
+## Persona: Jéssica Orlando 
 ### Summary 
-| Attribute        | Details                                       |
-| ---------------- | --------------------------------------------- |
-| **Photo**        | ![Persona Name](path/to/photo.jpg)            |
-| **Name**         | [Persona Name]                                |
-| **Age**          | [Persona Age]                                 |
-| **Occupation**   | [Job Title or Role]                           |
-| **Location**     | [City, Country]                               |
-| **Goals**        | [Brief summary of their main goals]           |
-| **Pain Points**  | [Key frustrations or challenges]              |
-| **Motivation**   | [One-line motivation or quote]                |
-| **Full Profile** | [📄 Read More](personas/persona2_template.md) |
+| Attribute        | Details                                        |
+| ---------------- | ---------------------------------------------  |
+| **Photo**        | ![Jéssica Orlando](persona_jessica.jpeg)       |
+| **Name**         | Jéssica Orlando                                |
+| **Age**          | 47                                             |
+| **Occupation**   | Caffeine Addiction                             |
+| **Location**     | Lisboa, Portugal                               |
+| **Goals**        | Get rid of her caffeine addiction              |
+| **Pain Points**  | Stop drinking coffe because of her lack of time|
+| **Motivation**   | whants feel more energized naturally           |
+| **Full Profile** | [📄 Read More](personas/persona_jessica.md)   |
 
 ---
 
+## Persona: Sofia Almeida 
+### Summary 
+| Attribute        | Details                                        |
+| ---------------- | ---------------------------------------------  |
+| **Photo**        | ![Sofia Almeida](personas/persona_sofia.jpeg)  |
+| **Name**         | Sofia Almeida                                  |
+| **Age**          | 38                                             |
+| **Occupation**   | Psychologist                                   |
+| **Location**     | Porto, Portugal                                |
+| **Goals**        | Help her clients when they need her            |
+| **Pain Points**  | She can't keep track of her patients           |
+| **Motivation**   | Her motivation is to keep her patients on check|
+| **Full Profile** | [📄 Read More](personas/persona_sofia.md)     |
 
+---
 
 
 
