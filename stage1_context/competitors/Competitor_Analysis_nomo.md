@@ -27,6 +27,10 @@
 
 ## Screenshots
 
+![menu](screenshots_nomo\competitor_nomo4.jpg)
+![timer](screenshots_nomo\competitor_nomo1.jpg)
+![refocus_distractions](screenshots_nomo\competitor_nomo2.jpg)
+![motivational_posts](screenshots_nomo\competitor_nomo3.jpg)
 
 ## Online Reviews
     MoAronstein, 09/02/2017, 5 stars
