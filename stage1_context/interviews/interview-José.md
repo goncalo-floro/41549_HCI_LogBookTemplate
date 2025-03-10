@@ -24,7 +24,7 @@ Trying to help a freind overcome his addiction
 
 ---- 
 ## Tools & Environment 
-**What tools or methods does the user currently rely on?** 
+**What tools or methods does the user currently rely on to help your friend?** 
 - System with only professional psychologists that can help people personally
 - A lot of customization on this system
 - Group chat's with other addicts in similar situations for tip sharing
@@ -32,16 +32,16 @@ Trying to help a freind overcome his addiction
 **Are there any frustrations or limitations with these tools?** 
 - Thinks rewards and visual reminder's of the addict's progress would only make the addict think about his addiction and therefore be more harmfull thant helpfull
 
-**What features do they wish these tools had?** 
+**What features would you like a system that assigns an addict to a supporter have?** 
 - The choice to be anonymous
 - Chatting with psychologists that allow video-calls 
 --- 
 ## Expectations for a Novel Approach 
 
-**What would an ideal solution look like for them?** 
+**What would you expect our app to have so that addicts can overcome their situation?** 
 - A tool that has professional help, events between similar addict's and privacy options
 
-**What concerns or hesitations do they have about new approaches?** 
+**What concerns or hesitations do they have about the new help system?** 
 - The support not being professional and maybe hindering the user more than helping
 - Too much reminder's of the addiction
 

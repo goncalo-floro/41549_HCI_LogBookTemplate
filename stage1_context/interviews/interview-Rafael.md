@@ -24,7 +24,7 @@ The user wishes to gain a control over, or fully stop a specific addiction of hi
 
 ---- 
 ## Tools & Environment 
-**What tools or methods does the user currently rely on?** 
+**What tools or methods does the user currently rely on to overcome his addiction?** 
 - Motivational content
 - Some friend's support to keep going
 
@@ -32,17 +32,17 @@ The user wishes to gain a control over, or fully stop a specific addiction of hi
 - The motivation provided by these content's is most of the time not enough to keep a person from relapsing
 - Friends and family are not always available to motivate and track your habits
 
-**What features do they wish these tools had?** 
+**What features would you like a system that assigns an addict to a supporter have?** 
 - Having acess to group activities (to keep himself occupied and not engage on his addiction)
 - Rewards and a way to accompany his improvement
 --- 
 ## Expectations for a Novel Approach 
 
-**What would an ideal solution look like for them?** 
+**What would you expect our app to have so that addicts can overcome their situation?** 
 - A system that provides you with professional support and also garantees it's quality
 - Has a review system that would allow user's to trust their support more easily
 
-**What concerns or hesitations do they have about new approaches?** 
+**What concerns or hesitations do they have about the new help system?** 
 - Idea seems too idealistic because to get professionals on board with the app they would need to be compensated and therefore a free help app would not be sustainable
 
 **How do they measure success for completing the task efficiently?** 
