@@ -14,12 +14,12 @@ Alberto wakes up early every morning and heads to his job at a local supermarket
 
 ## Goals & Needs
 
-Alberto’s primary goal is to help Arthur overcome his gambling addiction. He is actively looking for effective ways to support his friend, understand his behavior patterns, and encourage positive change. Alberto hopes to find tools that allow him to monitor Arthur’s progress and offer timely support, even when life gets busy.
+Alberto's primary goal is to help Arthur overcome his gambling addiction. He is actively looking for effective ways to support his friend, understand his behavior patterns, and encourage positive change. Alberto hopes to find tools that allow him to monitor Arthur's progress and offer timely support, even when life gets busy.
 
 ## Pain Points & Challenges
 
-One of Alberto’s biggest challenges is finding enough time to support Arthur while managing his own demanding work schedule. His job as a supermarket stock clerk requires long hours and physical effort, leaving him with limited energy at the end of the day. This makes it difficult for him to be present whenever Arthur might be struggling. Additionally, Alberto often feels frustrated by the lack of real-time information about his friend’s emotional state or potential relapses. Not knowing whether Arthur is in crisis creates a constant sense of worry and helplessness, as Alberto fears missing the moments when his support could make the greatest difference.
+One of Alberto's biggest challenges is finding enough time to support Arthur while managing his own demanding work schedule. His job as a supermarket stock clerk requires long hours and physical effort, leaving him with limited energy at the end of the day. This makes it difficult for him to be present whenever Arthur might be struggling. Additionally, Alberto often feels frustrated by the lack of real-time information about his friend's emotional state or potential relapses. Not knowing whether Arthur is in crisis creates a constant sense of worry and helplessness, as Alberto fears missing the moments when his support could make the greatest difference.
 
 ## Motivation
 
-Alberto engages with the product to stay connected and provide consistent support to Arthur’s recovery journey. It helps him monitor his friend’s progress and step in when needed, despite his limited time and availability.
+Alberto engages with the product to stay connected and provide consistent support to Arthur's recovery journey. It helps him monitor his friend's progress and step in when needed, despite his limited time and availability.

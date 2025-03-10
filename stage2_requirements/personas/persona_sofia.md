@@ -10,7 +10,7 @@ Dra. Sofia Almeida has worked for over 12 years in the field of addiction recove
 
 ## Daily Life
 
-Sofia’s days are typically packed with therapy sessions, consultations, and administrative tasks. She spends her mornings at the rehabilitation clinic in Porto, leading group therapy sessions and overseeing treatment plans. In the afternoons, she attends to private patients in her consulting office. Despite her busy schedule, Sofia dedicates time to staying updated on new therapeutic tools and technologies. She uses her laptop and smartphone frequently to manage appointments, take notes, and follow up with patients between sessions. One of her growing concerns is how to provide continuous care and prevent relapses, especially when patients are outside the controlled environment of therapy. 
+Sofia's days are typically packed with therapy sessions, consultations, and administrative tasks. She spends her mornings at the rehabilitation clinic in Porto, leading group therapy sessions and overseeing treatment plans. In the afternoons, she attends to private patients in her consulting office. Despite her busy schedule, Sofia dedicates time to staying updated on new therapeutic tools and technologies. She uses her laptop and smartphone frequently to manage appointments, take notes, and follow up with patients between sessions. One of her growing concerns is how to provide continuous care and prevent relapses, especially when patients are outside the controlled environment of therapy. 
 
 ## Goals & Needs
 
@@ -18,7 +18,7 @@ Sofia aims to offer a more proactive and continuous support system for her patie
 
 ## Pain Points & Challenges
 
-One of Sofia’s main challenges is the lack of real-time visibility into her patients’ mental and emotional states once they leave her office or the clinic. She often worries about patients isolating themselves or hiding their struggles until it’s too late for early intervention. Additionally, managing the follow-up process for multiple patients can be overwhelming, especially when relying solely on traditional methods like phone calls and in-person check-ins. Sofia needs a more efficient and scalable way to stay connected and informed about her patients’ wellbeing without increasing her already heavy workload.
+One of Sofia's main challenges is the lack of real-time visibility into her patients' mental and emotional states once they leave her office or the clinic. She often worries about patients isolating themselves or hiding their struggles until it's too late for early intervention. Additionally, managing the follow-up process for multiple patients can be overwhelming, especially when relying solely on traditional methods like phone calls and in-person check-ins. Sofia needs a more efficient and scalable way to stay connected and informed about her patients' wellbeing without increasing her already heavy workload.
 
 ## Motivation
 
