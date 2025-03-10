@@ -28,13 +28,13 @@
 ---
 
 ## Screenshots
-![Time](../screenshots_IamSober/IMG_5133.png)
-![Time](../screenshots_IamSober/IMG_5141.png)
-![Time](../screenshots_IamSober/IMG_5151.png)
-![Time](../screenshots_IamSober/IMG_5133.png)
-![Time](../screenshots_IamSober/IMG_5133.png)
-![Time](../screenshots_IamSober/IMG_5133.png)
-![Time](../screenshots_IamSober/IMG_5133.png)
+![Time](screenshots_IamSober/IMG_5133.png)
+![Community](screenshots_IamSober/IMG_5141.png)
+![Today](screenshots_IamSober/IMG_5151.png)
+![Motivation](screenshots_IamSober/IMG_5152.png)
+![Support](screenshots_IamSober/IMG_5153.png)
+![Calendar](screenshots_IamSober/IMG_5154.png)
+![Saving](screenshots_IamSober/IMG_5155.png)
 
 ## Online Reviews
     mollyforbreakfast, 07/09/2021, 5 stars
