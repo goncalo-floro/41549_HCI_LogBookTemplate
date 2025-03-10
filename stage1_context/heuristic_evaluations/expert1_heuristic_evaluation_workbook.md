@@ -26,7 +26,7 @@ Summary of each usability heuristic: [here](https://media.nngroup.com/media/arti
 
 | **Issue**                 | **Severity** | Recommendation |
 | ---------------           | ------------ | -------------- |
-| Labels don't accurately   | 2            |                |
+| Labels don't accurately   | 2            | Create a new hub or have an icon general               |
 | represent their content   |              |                |
 
 # 3 User Control and Freedom
@@ -48,9 +48,9 @@ Summary of each usability heuristic: [here](https://media.nngroup.com/media/arti
 
 | **Issue**                 | **Severity** | Recommendation |
 | ---------------           | ------------ | -------------- |
-| Repetition of             | 3            |                |
+| Repetition of             | 3            | Chose the right hub to have the repetition, dont overuse               |
 | various functionalities   |              |                |
-| Functionalities don't     | 1            |                |
+| Functionalities don't     | 1            | Chose only one why to operate               |
 | operate in the same on pc |              |                |
 | and on mobile             |              |                |
 # 5 Error Prevention
@@ -69,7 +69,7 @@ Summary of each usability heuristic: [here](https://media.nngroup.com/media/arti
 
 | **Issue**                 | **Severity** | Recommendation |
 | ---------------           | ------------ | -------------- |
-| Functionalities don't     | 1            |                |
+| Functionalities don't     | 1            |    Chose only one why to operate            |
 | operate in the same on pc |              |                |
 | and on mobile             |              |                |
 # 7 Flexibility and Efficiency of Use
@@ -79,7 +79,7 @@ Summary of each usability heuristic: [here](https://media.nngroup.com/media/arti
 
 | **Issue**                         | **Severity** | Recommendation |
 | ---------------                   | ------------ | -------------- |
-| Filters have a ton of             | 2            |                |
+| Filters have a ton of             | 2            | Use a scroll wheel               |
 | options instead of a scroll wheel |              |                |
 # 8 Aesthetic and Minimalist Design
 >	Interfaces should not contain information that is irrelevant or rarely needed. Every extra unit of information in an interface competes with the relevant units of information and diminishes their relative visibility. 
@@ -88,9 +88,9 @@ Summary of each usability heuristic: [here](https://media.nngroup.com/media/arti
 
 | **Issue**                         | **Severity** | Recommendation |
 | ---------------                   | ------------ | -------------- |
-| Repetition of buttons that do the | 1            |                |
+| Repetition of buttons that do the | 1            | Use only one type of button equal to the rest of the app               |
 | same thing                        |              |                |
-| Filters have a ton of             | 2            |                |
+| Filters have a ton of             | 2            | Use a scroll wheel               |
 | options instead of a scroll wheel |              |                |
 # 9 Help Users Recognize, Diagnose, and Recover from Errors
 >	Error messages should be expressed in plain language (no error codes), precisely indicate the problem, and constructively suggest a solution. 

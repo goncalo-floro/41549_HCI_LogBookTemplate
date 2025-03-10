@@ -14,13 +14,13 @@
 
 | **Competitor**    | **Description**                             	| Information repository              |
 | ----------------- | ------------------------------------------- 	| ----------------------------------- |
-| I Am Sober	    | I Am Sober is a sobriety-tracking app that 	| [[Competitor Analysis AmazonShoes]] |
+| I Am Sober	    | I Am Sober is a sobriety-tracking app that 	| [Competitor Analysis I Am Sober](competitors/Competitor_Analysis_IAmSober.md) 	  |
 |					| can help you recover from addiction to 		|									  |
 |					| alcohol and other substances, as well as 		|									  |
 |					| break bad habits and other harmful behaviours.|        							  |
-| Quitzilla 		| Quitzilla is an app designed to help you quit |									  |
+| Quitzilla 		| Quitzilla is an app designed to help you quit | [Competitor Analysis Quitzilla](competitors/Competitor_Analysis_Quitzilla.md)	  |
 |					| your unwanted habits and addictions. 			|                                     |
-| nomo		        | Nomo is a simple clock that can track the		|									  | 
+| nomo		        | Nomo is a simple clock that can track the		| [Competitor Analysis Nomo](competitors/Competitor_Analysis_nomo.md)		| 
 |					| number of days you've been sober/clean/etc    |                                     |
 
 

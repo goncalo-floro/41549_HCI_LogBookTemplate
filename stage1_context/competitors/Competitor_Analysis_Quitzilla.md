@@ -27,6 +27,9 @@
 
 ## Screenshots
 
+![Goals](screenshots_Quitzilla/competitor_quitzilla1.png)
+![Calendar](screenshots_Quitzilla/competitor_quitzilla2.png)
+![expenses_saved](screenshots_Quitzilla\competitor_quitzilla3.png)
 
 ## Online Reviews
     Gustavo Costa, 12/11/2024, 5 stars
