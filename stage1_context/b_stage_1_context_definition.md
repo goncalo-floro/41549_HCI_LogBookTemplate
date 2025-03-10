@@ -168,20 +168,25 @@ Task: Post in the Community (Tobacco)
 ### Interview List 
 | Date       | Participant / Role | Key Insights                                                    | Link to Notes                |     |
 | ---------- | ------------------ | --------------------------------------------------------------- | ---------------------------- | --- |
-| 03-09-2000 | Bob / student      | Does most things on paper and would require a complete solution | [📄 Notes](interview-Bob.md) |     |
-| ...        |                    |                                                                 |                              |     |
+| 25-02-2025 | Paulo - addict     | Wants to overcome his addiction | [📄 Notes](interview-Paulo.md) |     |
+| 25-02-2025 | Rafael - addict    | Wants to overcome his addiction | [📄 Notes](interview-Rafael.md)                             |     |
+| 25-02-2025 | José - friend of an addict    | Wants to help his friend overcome his addiction | [📄 Notes](interview-José.md)                             |     |
 
 ### Common Themes & Patterns 
 
 - **Recurring Problems:** 
-	- Issue 1
-	- Issue 2
+	- Relapsing
+	- Lack of always available support
 - **Frequently Used Tools:** 
-	- Tool 1
-	- Tool 2
+	- Social media for motivation
+	- Asking for help from friends and family
+	- Support groups
 - **Desired Features / Solutions:** 
-	- Feature 1
-	- Feature 2
+	- Rewards that makes your progress apparent
+	- professional support
+	- Privacy
+	- Group chat's between addicts in similar situations
+	- Scheduled activities to replace addictions
 - --- 
 
 
