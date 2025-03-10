@@ -2,9 +2,9 @@
 Nielsen Norman Group available at: https://media.nngroup.com/media/articles/attachments/Heuristic_Evaluation_Workbook_-_Nielsen_Norman_Group.pdf
 -->
 
-**Evaluator**: [Evaluator Name]
+**Evaluator**: Francisco Silva
 **Date**: [DD-MM-AAAA]
-**Product**: [SuperMaxiApp]
+**Product**: I Am Sober
 
 Severity Scale adopted: [[severity_scale_heuristic_evaluation]]
 Summary of each usability heuristic: [here](https://media.nngroup.com/media/articles/attachments/Heuristic_Summary1-compressed.pdf)
@@ -24,10 +24,10 @@ Summary of each usability heuristic: [here](https://media.nngroup.com/media/arti
 >	- Will user be familiar with the terminology used in the design? 
 >	- Do the design’s controls follow real-world conventions?
 
-| **Issue**       | **Severity** | Recommendation |
-| --------------- | ------------ | -------------- |
-| Something wrong | 3            |                |
-| Another thing   | 4            |                |
+| **Issue**                 | **Severity** | Recommendation |
+| ---------------           | ------------ | -------------- |
+| Labels don't accurately   | 2            |                |
+| represent their content   |              |                |
 
 # 3 User Control and Freedom
 >	Users often perform actions by mistake. They need a clearly marked "emergency exit" to leave the unwanted action without having to go through an extended process. 
@@ -46,10 +46,13 @@ Summary of each usability heuristic: [here](https://media.nngroup.com/media/arti
 >	- Does the design follow industry conventions? 
 >	- Are visual treatments used consistently throughout the design?
 
-| **Issue**       | **Severity** | Recommendation |
-| --------------- | ------------ | -------------- |
-| Something wrong | 3            |                |
-| Another thing   | 4            |                |
+| **Issue**                 | **Severity** | Recommendation |
+| ---------------           | ------------ | -------------- |
+| Repetition of             | 3            |                |
+| various functionalities   |              |                |
+| Functionalities don't     | 1            |                |
+| operate in the same on pc |              |                |
+| and on mobile             |              |                |
 # 5 Error Prevention
 >	Good error messages are important, but the best designs carefully prevent problems from occurring in the first place. Either eliminate error-prone conditions, or check for them and present users with a confirmation option before they commit to the action. 
 >	- Does the design prevent slips by using helpful constraints? 
@@ -64,28 +67,31 @@ Summary of each usability heuristic: [here](https://media.nngroup.com/media/arti
 >	- Does the design keep important information visible, so that users do not have to memorize it? 
 >	- Does the design offer help in-context?
 
-| **Issue**       | **Severity** | Recommendation |
-| --------------- | ------------ | -------------- |
-| Something wrong | 3            |                |
-| Another thing   | 4            |                |
+| **Issue**                 | **Severity** | Recommendation |
+| ---------------           | ------------ | -------------- |
+| Functionalities don't     | 1            |                |
+| operate in the same on pc |              |                |
+| and on mobile             |              |                |
 # 7 Flexibility and Efficiency of Use
 >	Shortcuts — hidden from novice users — may speed up the interaction for the expert user such that the design can cater to both inexperienced and experienced users. Allow users to tailor frequent actions. 
 >	- Does the design provide accelerators like keyboard shortcuts and touch gestures? 
 >	- Is content and funtionality personalized or customized for individual users?
 
-| **Issue**       | **Severity** | Recommendation |
-| --------------- | ------------ | -------------- |
-| Something wrong | 3            |                |
-| Another thing   | 4            |                |
+| **Issue**                         | **Severity** | Recommendation |
+| ---------------                   | ------------ | -------------- |
+| Filters have a ton of             | 2            |                |
+| options instead of a scroll wheel |              |                |
 # 8 Aesthetic and Minimalist Design
 >	Interfaces should not contain information that is irrelevant or rarely needed. Every extra unit of information in an interface competes with the relevant units of information and diminishes their relative visibility. 
 >	- Is the visual design and content focused on the essentials? 
 >	- Have all distracting, unnescessary elements been removed?
 
-| **Issue**       | **Severity** | Recommendation |
-| --------------- | ------------ | -------------- |
-| Something wrong | 3            |                |
-| Another thing   | 4            |                |
+| **Issue**                         | **Severity** | Recommendation |
+| ---------------                   | ------------ | -------------- |
+| Repetition of buttons that do the | 1            |                |
+| same thing                        |              |                |
+| Filters have a ton of             | 2            |                |
+| options instead of a scroll wheel |              |                |
 # 9 Help Users Recognize, Diagnose, and Recover from Errors
 >	Error messages should be expressed in plain language (no error codes), precisely indicate the problem, and constructively suggest a solution. 
 >	- Does the design use traditional error message visuals, like bold, red text? 

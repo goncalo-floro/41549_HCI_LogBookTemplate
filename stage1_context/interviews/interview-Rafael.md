@@ -3,51 +3,51 @@
 > 	The questions included in this file are just possibilities. The questions you do should be adapted to your case, where needed.
 
 ## Interview Details 
-- **Date:** [YYYY-MM-DD] 
-- **Interviewer:** [Your Name] 
-- **Participant:** [Optional: Anonymous or Role] 
-- **Context:** [Where and how the interview was conducted] 
+- **Date:** 2025-02-25 
+- **Interviewer:** Tomás Gameiro & Gonçalo Floro
+- **Participant:** Rafael
+- **Context:** In the classroom during the IHC practical lesson of that week
 - --- 
 ## Task Overview 
 
  **What task is the user trying to accomplish?** 
-[Describe the task in the user’s words] 
+The user wishes to gain a control over, or fully stop a specific addiction of his, for health or other reasons.
 
 **What are the main pain points or difficulties they experience?** 
-- [Challenge 1] 
-- [Challenge 2] 
-- [Challenge 3] 
+- 85% of addicts usually relapse within the 1st year
+- There's no real time support
+- Traditional rehabilitation is expensive
+- Support groups are not always available
 
 **Are there any workarounds or strategies they currently use?** 
-- [List of workarounds] 
+- They consume motivational content on social media
 
 ---- 
 ## Tools & Environment 
 **What tools or methods does the user currently rely on?** 
-- [Tool 1] 
-- [Tool 2] 
-- [Any manual processes] 
+- Motivational content
+- Some friend's support to keep going
 
 **Are there any frustrations or limitations with these tools?** 
-- [Limitation 1] 
-- [Limitation 2] 
+- The motivation provided by these content's is most of the time not enough to keep a person from relapsing
+- Friends and family are not always available to motivate and track your habits
 
 **What features do they wish these tools had?** 
-- [Feature 1] 
-- [Feature 2] 
+- Having acess to group activities (to keep himself occupied and not engage on his addiction)
+- Rewards and a way to accompany his improvement
 --- 
 ## Expectations for a Novel Approach 
 
 **What would an ideal solution look like for them?** 
-- [Key expectations] 
+- A system that provides you with professional support and also garantees it's quality
+- Has a review system that would allow user's to trust their support more easily
 
 **What concerns or hesitations do they have about new approaches?** 
-- [Concern 1] 
-- [Concern 2] 
+- Idea seems too idealistic because to get professionals on board with the app they would need to be compensated and therefore a free help app would not be sustainable
 
 **How do they measure success for completing the task efficiently?** 
-- [Efficiency metric or criteria] 
+- They believe the app could be successful if we collaborated with professionals as an extension of their work, where medical professionals use the app, and their employers cover the costs ,or if we integrated ads for monetization.
 
 --- 
 ## Additional Observations 
-[Free space for any other relevant notes, behaviors, or comments]
+- Suggested that professionals show their credentials
