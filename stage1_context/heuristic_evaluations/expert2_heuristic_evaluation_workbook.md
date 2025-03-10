@@ -26,7 +26,7 @@ Summary of each usability heuristic: [here](https://media.nngroup.com/media/arti
 
 | **Issue**                 | **Severity** | Recommendation |
 | ---------------           | ------------ | -------------- |
-| Labels don't accurately   | 2            |                |
+| Labels don't accurately   | 2            |  don't have multiple categories under the same label, make one more general or make various labels              |
 | represent their content   |              |                |
 
 # 3 User Control and Freedom
@@ -48,9 +48,9 @@ Summary of each usability heuristic: [here](https://media.nngroup.com/media/arti
 
 | **Issue**                 | **Severity** | Recommendation |
 | ---------------           | ------------ | -------------- |
-| Repetition of             | 3            |                |
+| Repetition of             | 3            | should have the functionality in one place and if it's used in different context's i think the context could be an option in that place|
 | various functionalities   |              |                |
-| Functionalities don't     | 0            |                |
+| Functionalities don't     | 0            | don't think what was different was an issue               |
 | operate in the same on pc |              |                |
 | and on mobile             |              |                |
 # 5 Error Prevention
@@ -69,7 +69,7 @@ Summary of each usability heuristic: [here](https://media.nngroup.com/media/arti
 
 | **Issue**                 | **Severity** | Recommendation |
 | ---------------           | ------------ | -------------- |
-| Functionalities don't     | 0            |                |
+| Functionalities don't     | 0            |    don't think what was different was an issue             |
 | operate in the same on pc |              |                |
 | and on mobile             |              |                |
 # 7 Flexibility and Efficiency of Use
@@ -79,7 +79,7 @@ Summary of each usability heuristic: [here](https://media.nngroup.com/media/arti
 
 | **Issue**                         | **Severity** | Recommendation |
 | ---------------                   | ------------ | -------------- |
-| Filters have a ton of             | 1            |                |
+| Filters have a ton of             | 1            |     should use a scroll wheel to not make the menus so cluttered           |
 | options instead of a scroll wheel |              |                |
 # 8 Aesthetic and Minimalist Design
 >	Interfaces should not contain information that is irrelevant or rarely needed. Every extra unit of information in an interface competes with the relevant units of information and diminishes their relative visibility. 
@@ -88,7 +88,7 @@ Summary of each usability heuristic: [here](https://media.nngroup.com/media/arti
 
 | **Issue**                         | **Severity** | Recommendation |
 | ---------------                   | ------------ | -------------- |
-| Repetition of buttons that do the | 1            |                |
+| Repetition of buttons that do the | 1            |   it's just annoying, no repetitions of buttons             |
 | same thing                        |              |                |
 | Filters have a ton of             | 1            |                |
 | options instead of a scroll wheel |              |                |
