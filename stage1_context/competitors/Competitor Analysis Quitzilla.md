@@ -28,6 +28,7 @@
 ## Screenshots
 
 
+
 ## Online Reviews
     Gustavo Costa, 12/11/2024, 5 stars
 A great app for overcoming addictions. The calendar is easily visible, allowing you to track your progress effortlessly. Additionally, you can set goals and monitor your abstinence time. The "age clock" serves as a great reminder of how short life is and that we should make the most of it. There is also a statistics section and an achievements tab.
