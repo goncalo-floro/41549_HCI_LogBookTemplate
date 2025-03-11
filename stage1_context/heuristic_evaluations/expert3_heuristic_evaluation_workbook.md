@@ -3,7 +3,7 @@ Nielsen Norman Group available at: https://media.nngroup.com/media/articles/atta
 -->
 
 **Evaluator**: Gonçalo Floro
-**Date**: [10-03-2025]
+**Date**: [9-03-2025]
 **Product**: I Am Sober
 
 Severity Scale adopted: [[severity_scale_heuristic_evaluation]]

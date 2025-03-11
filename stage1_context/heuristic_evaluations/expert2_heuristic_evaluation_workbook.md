@@ -3,7 +3,7 @@ Nielsen Norman Group available at: https://media.nngroup.com/media/articles/atta
 -->
 
 **Evaluator**: Tomás Gameiro
-**Date**: [DD-MM-AAAA]
+**Date**: [9-03-2025]
 **Product**: I Am Sober
 
 Severity Scale adopted: [[severity_scale_heuristic_evaluation]]
