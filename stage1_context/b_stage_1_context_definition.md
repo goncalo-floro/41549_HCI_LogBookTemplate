@@ -33,7 +33,6 @@
 ### - Heuristic Evaluation
 
 #### Method
-[ Describe the method used for the heuristic evaluation: procedure, number of experts, heuristics, severity scale considered, how was consensus done.]
 The Heuristic Evaluation was performed by three usability specialists who collaboratively assessed the I Am Sober app from the beginning, applying Nielsen’s 10 Usability Heuristics. They recognized problems, assessed their severity on a scale from 0 to 4, and came to an agreement through dialogue, prioritizing solutions according to impact and practicality
 
 #### Individual Evaluations
@@ -55,13 +54,13 @@ The Heuristic Evaluation was performed by three usability specialists who collab
 | **Issue**       						| **Expert 1** | Expert 2 | Expert 3 | Recommendations                             |
 | --------------- 						| ------------ | -------- | -------- | ------------------------------------------- |
 | Repetition of various functionalities	| 3            | 3        | 2        | remove redundant features |
-| Functionalities don't operate in the  | 1            | 0        | 1        | Other thing to recommend                    |
+| Functionalities don't operate in the  | 1            | 0        | 1        | Ensure feature parity across desktop and mobile platforms                    |
 | same on pc and on mobile
-| Labels don't accurately represent     | 2            | 2        | 3        |                                             |
+| Labels don't accurately represent     | 2            | 2        | 3        | don't have multiple categories under the same label, make one more general or make various labels                                            |
 | their content 
-| Filters have a ton of options instead | 2            | 1        | 3        | Something could be done to the button to... |
+| Filters have a ton of options instead | 2            | 1        | 3        | should use a scroll wheel to not make the menus so cluttered |
 | of a scroll wheel
-| Repetition of buttons that do the 	| 1            | 1        | 1        | Something could be done to the button to... |
+| Repetition of buttons that do the 	| 1            | 1        | 1        | Remove duplicate buttons that perform identical functions |
 | same thing
 
 
@@ -75,13 +74,13 @@ We start defining an user persona, like a first-time user looking to track their
 
 #### Task Selection and Task Analysis
 
-[Which tasks did you select and why. What are the subtasks entailed for each ]
 We chose tasks crucial for user involvement: incorporating a dependency (tobacco) and interacting with the community, since they influence onboarding and sustained retention. Every task was divided into subtasks to examine usability and possible friction areas
 
 
 | Task                        		| Subtasks                               										|
 | --------------------------- 		| -----------------------------------------------------------------------------	| 
-| **1. Add Dependency (Tobacco)** 	| Open the menu (hamburger icon) and select "Add New".							|
+| **1. Add Dependency (Tobacco)** 	| Open the menu (hamburger icon).							|
+|                             		| Select "Add New". 								|
 |                             		| Select "Tobacco" and press the "Next" button. 								|
 |                             		| Choose the start date of your abstinence and press "Next".      				|
 |                             		| Select how many days per week you used to consume tobacco, then press "Next". |
@@ -117,40 +116,52 @@ Task: Add Dependency (Tobacco)
 
 | Step # | Task/Action to Perform | Will User Know What to do at this step? (Yes/No) | Notes | If the user does the right thing, will they know it is progressing towards goal? (Yes/No) | Notes | Is Action Successful? (Yes/No) | Suggestions for Improvement |     |
 | ------ | ---------------------- | ------------------------------------------------ | ----- | ----------------------------------------------------------------------------------------- | ----- | ------------------------------ | --------------------------- | --- |
-| 1      | Open the menu (hamburger icon) and select "Add New".   | [Yes/No]                                         |       | [Yes/No]                                                                                  |       | [Yes/No]                       | [Suggestion 1]              |     |
-| 2      | Select "Tobacco" and press the "Next" button.   | [Yes/No]                                         |       | [Yes/No]                                                                                  |       | [Yes/No]                       | [Suggestion 2]              |     |
-| 3      | Choose the start date of your abstinence and press "Next".   | [Yes/No]                                         |       | [Yes/No]                                                                                  |       | [Yes/No]                       | [Suggestion 3]              |     |
-| 4      | Select how many days per week you used to consume tobacco, then press "Next".   | [Yes/No]                                         |       | [Yes/No]                                                                                  |       | [Yes/No]                       | [Suggestion 3]              |     |
-| 5      | Select how many times per day you used to consume tobacco, then press "Next".   | [Yes/No]                                         |       | [Yes/No]                                                                                  |       | [Yes/No]                       | [Suggestion 3]              |     |
-| 6      | Write down your motivation for quitting tobacco, then press "Done".         | [Yes/No]                                         |       | [Yes/No]                                                                                  |       | [Yes/No]                       | [Suggestions]               |     |
+| 1      | Open the menu (hamburger icon).   | [No]                                         |       | [Yes]                                                                                  |       | [Yes]                       | [Suggestion 1 ]             |     |
+| 1      | Select "Add New".   | [Yes]                                         |       | [No]                                                                                  |       | [No]                       | [Suggestion 1]              |     |
+| 2      | Select "Tobacco" and press the "Next" button.   | [Yes]                                         |       | [Yes]                                                                                  |       | [Yes]                       | [Suggestion 2]              |     |
+| 3      | Choose the start date of your abstinence and press "Next".   | [Yes]                                         |       | [Yes]                                                                                  |       | [Yes]                       | [Suggestion 3]              |     |
+| 4      | Select how many days per week you used to consume tobacco, then press "Next".   | [Yes]                                         |       | [Yes]                                                                                  |       | [Yes]                       | [Suggestion 3]              |     |
+| 5      | Select how many times per day you used to consume tobacco, then press "Next".   | [Yes]                                         |       | [Yes]                                                                                  |       | [Yes]                       | [Suggestion 3]              |     |
+| 6      | Write down your motivation for quitting tobacco, then press "Done".         | [Yes]                                         |       | [Yes]                                                                                  |       | [Yes]                       | [Suggestions]               |     |
 
 Task: login
 
 | Step # | Task/Action to Perform | Will User Know What to do at this step? (Yes/No) | Notes | If the user does the right thing, will they know it is progressing towards goal? (Yes/No) | Notes | Is Action Successful? (Yes/No) | Suggestions for Improvement |     |
 | ------ | ---------------------- | ------------------------------------------------ | ----- | ----------------------------------------------------------------------------------------- | ----- | ------------------------------ | --------------------------- | --- |
-| 1      | Open the user icon.   | [Yes/No]                                         |       | [Yes/No]                                                                                  |       | [Yes/No]                       | [Suggestion 1]              |     |
-| 2      | Press the account button.   | [Yes/No]                                         |       | [Yes/No]                                                                                  |       | [Yes/No]                       | [Suggestion 2]              |     |
-| 3      | Enter your email, then press "Next".   | [Yes/No]                                         |       | [Yes/No]                                                                                  |       | [Yes/No]                       | [Suggestion 3]              |     |
-| 4      | Enter your username, then press "Next".   | [Yes/No]                                         |       | [Yes/No]                                                                                  |       | [Yes/No]                       | [Suggestion 3]              |     |
-| 5      | Enter your password, then press "Next".   | [Yes/No]                                         |       | [Yes/No]                                                                                  |       | [Yes/No]                       | [Suggestion 3]              |     |
-| 6      | Open your email app and verify your email.   | [Yes/No]                                         |       | [Yes/No]                                                                                  |       | [Yes/No]                       | [Suggestion 3]              |     |
-| 7      | Return to the I Am Sober app and upload a profile picture (optional), then press "Next".   | [Yes/No]                                         |       | [Yes/No]                                                                                  |       | [Yes/No]                       | [Suggestion 3]              |     |
-| 8      | Skip the Paywall by tapping the "X" (account created).        | [Yes/No]                                         |       | [Yes/No]                                                                                  |       | [Yes/No]                       | [Suggestions]               |     |
+| 1      | Open the user icon.   | [Yes]                                         |       | [Yes]                                                                                  |       | [Yes]                       | [Suggestion 1]              |     |
+| 2      | Press the account button.   | [Yes]                                         |       | [Yes]                                                                                  |       | [Yes]                       | [Suggestion 2]              |     |
+| 3      | Enter your email, then press "Next".   | [Yes]                                         |       | [Yes]                                                                                  |       | [Yes]                       | [Suggestion 3]              |     |
+| 4      | Enter your username, then press "Next".   | [Yes]                                         |       | [Yes]                                                                                  |       | [Yes]                       | [Suggestion 3]              |     |
+| 5      | Enter your password, then press "Next".   | [Yes]                                         |       | [Yes]                                                                                  |       | [Yes]                       | [Suggestion 3]              |     |
+| 6      | Open your email app and verify your email.   | [Yes]                                         |       | [Yes]                                                                                  |       | [Yes]                       | [Suggestion 3]              |     |
+| 7      | Return to the I Am Sober app and upload a profile picture (optional), then press "Next".   | [Yes]                                         |       | [Yes]                                                                                  |       | [Yes]                       | [Suggestion 3]              |     |
+| 8      | Skip the Paywall by pressing the "X" (account created).        | [Yes]                                         |       | [Yes]                                                                                  |       | [Yes]                       | [Suggestions]               |     |
 
 Task: Post in the Community (Tobacco)
 
 | Step # | Task/Action to Perform | Will User Know What to do at this step? (Yes/No) | Notes | If the user does the right thing, will they know it is progressing towards goal? (Yes/No) | Notes | Is Action Successful? (Yes/No) | Suggestions for Improvement |     |
 | ------ | ---------------------- | ------------------------------------------------ | ----- | ----------------------------------------------------------------------------------------- | ----- | ------------------------------ | --------------------------- | --- |
-| 1      | Select the "Community" hub.   | [Yes/No]                                         |       | [Yes/No]                                                                                  |       | [Yes/No]                       | [Suggestion 1]              |     |
-| 2      | Press the "+" button.   | [Yes/No]                                         |       | [Yes/No]                                                                                  |       | [Yes/No]                       | [Suggestion 2]              |     |
-| 3      | Accept the community guidelines, then press "Ok, Got It!".   | [Yes/No]                                         |       | [Yes/No]                                                                                  |       | [Yes/No]                       | [Suggestion 3]              |     |
-| 4      | Write your story, then press "Next".   | [Yes/No]                                         |       | [Yes/No]                                                                                  |       | [Yes/No]                       | [Suggestion 3]              |     |
-| 5      | Select a photo to attach to your story (optional), then press "Next".   | [Yes/No]                                         |       | [Yes/No]                                                                                  |       | [Yes/No]                       | [Suggestion 3]              |     |
-| 6      | Read the confirmation message that your post was sent, then press "Done".        | [Yes/No]                                         |       | [Yes/No]                                                                                  |       | [Yes/No]                       | [Suggestions]               |     |
+| 1      | Select the "Community" hub.   | [Yes]                                         |       | [Yes]                                                                                  |       | [Yes]                       | [Suggestion 1]              |     |
+| 2      | Press the "+" button.   | [Yes]                                         |       | [Yes]                                                                                  |       | [Yes]                       | [Suggestion 2]              |     |
+| 3      | Accept the community guidelines, then press "Ok, Got It!".   | [Yes]                                         |       | [Yes]                                                                                  |       | [Yes]                       | [Suggestion 3]              |     |
+| 4      | Write your story, then press "Next".   | [Yes]                                         |       | [Yes]                                                                                  |       | [Yes]                       | [Suggestion 3]              |     |
+| 5      | Select a photo to attach to your story (optional), then press "Next".   | [Yes]                                         |       | [Yes]                                                                                  |       | [Yes]                       | [Suggestion 3]              |     |
+| 6      | Read the confirmation message that your post was sent, then press "Done".        | [Yes]                                         |       | [Yes]                                                                                  |       | [Yes]                       | [Suggestions]               |     |
 
 ## B.1c. Overall Analysis
 
-[Here, you should summarize the main findings for the competitor panorama, listing key points that are valuable to inform the design of your solution, and also make an HCI SWOT analysis for the main competitor, taking into consideration what you learned from the heuristic evaluatio, cognitive walkthrough, online reviews, user feedback, etc.]
+
+After analyzing the competitors, we found several important insights that can help guide the design of our solution.
+
+One common strength is that these apps have a simple and clean design. This makes them easy to use, even for first-time users. For example, Nomo is very straightforward, focusing only on tracking days without addiction. I Am Sober adds more features, like daily pledges and progress milestones, which help keep users motivated by showing their achievements.
+
+Community support is another feature that stands out. In I Am Sober, users can share their stories and encourage one another, creating a sense of belonging and motivation. This kind of interaction helps people feel less alone in their journey.
+
+On the other hand, we noticed some weaknesses. Some apps offer too many features or options, which can make them confusing or overwhelming. For instance, I Am Sober sometimes repeats functionalities, and its labels aren't always clear, making it harder for users to understand what certain features do.
+
+There is space to make some improvements. Adding features like private group chats or offering access to professional support could make users feel safer and more supported. Customization options, such as personal goal settings or themes, could also improve the user experience.
+
+In conclusion, the competitor analysis shows the importance of simplicity, motivation, and community support. Our solution should focus on these strengths while avoiding the complex designs that keep the clients away.
 
 ---
 
@@ -160,7 +171,7 @@ Task: Post in the Community (Tobacco)
 
 ## B.2a. Method
 
-[What approach was followed to talk with users; what kind of users were considered. What was the goal of the interviews? What were the questions considered?]
+The interviews began by understanding how participants handle their challenges without any technological assistance. Then, we introduced the app concept and asked targeted questions about our features to assess their usefulness. Participants provided feedback and suggestions on improvements. The selected personas included addicts, a friend of an addict, and a psychologist.
 ## B.2b. Results
 
 >	This section tracks all informal user interviews, summarizing key insights and linking to detailed notes for each session. 
