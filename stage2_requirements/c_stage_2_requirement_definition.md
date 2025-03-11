@@ -13,7 +13,7 @@
 ### Summary 
 | Attribute        | Details                                        |
 | ---------------- | ---------------------------------------------  |
-| **Photo**        | ![Alberto Fernandes](persona_alberto.jpeg)     |
+| **Photo**        | ![Alberto Fernandes](personas/persona_alberto.jpeg)     |
 | **Name**         | Alberto Fernandes                              |
 | **Age**          | 28                                             |
 | **Occupation**   | Friend of an Addict                            |
@@ -28,7 +28,7 @@
 ### Summary 
 | Attribute        | Details                                              |
 | ---------------- | ---------------------------------------------------- |
-| **Photo**        | ![Jéssica Orlando](persona_jessica.jpeg)             |
+| **Photo**        | ![Jéssica Orlando](personas/persona_jessica.jpeg)             |
 | **Name**         | Jéssica Orlando                                      |
 | **Age**          | 47                                                   |
 | **Occupation**   | Caffeine Addiction                                   |
@@ -61,7 +61,7 @@
 # Scenarios
 
 
-## Scenario 1: Alberto Fernandes whants to check how his friend is doing
+## Scenario 1: Alberto Fernandes wants to check how his friend is doing
 
 Alberto is always worried about his friend, so he often textes him about his addictions, but when he does it, he thinks that he his putting too much pressure on his friend, so after seeing his **friends status**, he is a lot more relieved about his friend.
 
