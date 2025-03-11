@@ -3,7 +3,7 @@ Nielsen Norman Group available at: https://media.nngroup.com/media/articles/atta
 -->
 
 **Evaluator**: Gonçalo Floro
-**Date**: [DD-MM-AAAA]
+**Date**: [10-03-2025]
 **Product**: I Am Sober
 
 Severity Scale adopted: [[severity_scale_heuristic_evaluation]]
@@ -26,8 +26,8 @@ Summary of each usability heuristic: [here](https://media.nngroup.com/media/arti
 
 | **Issue**                 | **Severity** | Recommendation |
 | ---------------           | ------------ | -------------- |
-| Labels don't accurately   | 3            |                |
-| represent their content   |              |                |
+| Labels don't accurately | 3            | Revise labels to use terms that align with users' everyday language and  expectations.    |
+| represent their content    |              |                          |
 
 # 3 User Control and Freedom
 >	Users often perform actions by mistake. They need a clearly marked "emergency exit" to leave the unwanted action without having to go through an extended process. 
@@ -48,9 +48,9 @@ Summary of each usability heuristic: [here](https://media.nngroup.com/media/arti
 
 | **Issue**                 | **Severity** | Recommendation |
 | ---------------           | ------------ | -------------- |
-| Repetition of             | 2            |                |
+| Repetition of             | 2            | Remove redundant features            |
 | various functionalities   |              |                |
-| Functionalities don't     | 1            |                |
+| Functionalities don't     | 1            | Ensure feature parity across desktop and mobile platforms               |
 | operate in the same on pc |              |                |
 | and on mobile             |              |                |
 # 5 Error Prevention
@@ -69,7 +69,7 @@ Summary of each usability heuristic: [here](https://media.nngroup.com/media/arti
 
 | **Issue**                 | **Severity** | Recommendation |
 | ---------------           | ------------ | -------------- |
-| Functionalities don't     | 1            |                |
+| Functionalities don't     | 1            | Ensure feature parity across desktop and mobile platforms                |
 | operate in the same on pc |              |                |
 | and on mobile             |              |                |
 # 7 Flexibility and Efficiency of Use
@@ -79,7 +79,7 @@ Summary of each usability heuristic: [here](https://media.nngroup.com/media/arti
 
 | **Issue**                         | **Severity** | Recommendation |
 | ---------------                   | ------------ | -------------- |
-| Filters have a ton of             | 3            |                |
+| Filters have a ton of             | 3            | Simplify filter selection by introducing categorized groups               |
 | options instead of a scroll wheel |              |                |
 # 8 Aesthetic and Minimalist Design
 >	Interfaces should not contain information that is irrelevant or rarely needed. Every extra unit of information in an interface competes with the relevant units of information and diminishes their relative visibility. 
@@ -88,9 +88,9 @@ Summary of each usability heuristic: [here](https://media.nngroup.com/media/arti
 
 | **Issue**                         | **Severity** | Recommendation |
 | ---------------                   | ------------ | -------------- |
-| Repetition of buttons that do the | 1            |                |
+| Repetition of buttons that do the | 1            |  Remove duplicate buttons that perform identical functions              |
 | same thing                        |              |                |
-| Filters have a ton of             | 3            |                |
+| Filters have a ton of             | 3            |  Limit the number of visible filter options and offer a 'Show More' button |
 | options instead of a scroll wheel |              |                |
 # 9 Help Users Recognize, Diagnose, and Recover from Errors
 >	Error messages should be expressed in plain language (no error codes), precisely indicate the problem, and constructively suggest a solution. 

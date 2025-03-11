@@ -54,7 +54,7 @@ The Heuristic Evaluation was performed by three usability specialists who collab
 
 | **Issue**       						| **Expert 1** | Expert 2 | Expert 3 | Recommendations                             |
 | --------------- 						| ------------ | -------- | -------- | ------------------------------------------- |
-| Repetition of various functionalities	| 3            | 3        | 2        | Something could be done to the button to... |
+| Repetition of various functionalities	| 3            | 3        | 2        | remove redundant features |
 | Functionalities don't operate in the  | 1            | 0        | 1        | Other thing to recommend                    |
 | same on pc and on mobile
 | Labels don't accurately represent     | 2            | 2        | 3        |                                             |
