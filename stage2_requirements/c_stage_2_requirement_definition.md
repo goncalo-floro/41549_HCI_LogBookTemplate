@@ -69,7 +69,7 @@ Sometimes he is occupied working and forgets to check on his friend, but he reci
 
 ---
 
-## Scenario 2: Jéssica Orlando had a relapse and whants some motivation
+## Scenario 2: Jéssica Orlando had a relapse and wants some motivation
 
 Jéssica had a tough day and gave in to drinking too much coffee again. She opens the app and looks for motivational **posts** shared by other users who have faced similar challenges. She also receives positive reinforcement messages from the groups she follows, which helps her feel supported.
 
@@ -79,7 +79,7 @@ Because of her relapse, Jéssica also marks the day on her **calendar** to keep 
 
 ---
 
-## Scenario 3: Sofia Almeida whant to see if her clients need her
+## Scenario 3: Sofia Almeida want to see if her clients need her
 
 Sofia goes to her page, and marks her **status** as available. This way, her clients can text her at any hour, and she can see if they need an apointment with her or if they just need a little motivation.
 
